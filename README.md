@@ -65,6 +65,31 @@
       Git
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/><br/>
+      Tailwind
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/><br/>
+      CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/><br/>
+      C
+    </td>
+     <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br/>
+      Bootsrap
+    </td>
+  </tr>
 </table>
 
 
