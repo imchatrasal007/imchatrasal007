@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **C,C++,Java,Mangodb,Express.js,React.js,Node.js,Sql**
+- 💬 Ask me about **FrontEnd And Backend Technologies**
 
 - 📫 How to reach me **aryanjadhav707@gmail.com**
 
