@@ -98,10 +98,10 @@
 ## My GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imchatrasal007&theme=gruvbox&hide_border=true)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=imchatrasal007&theme=gruvbox)
+![Metrics](https://metrics.lecoq.io/imchatrasal007?template=classic&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=imchatrasal007&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&hide_border=true)
 
 
 
