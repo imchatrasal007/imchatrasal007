@@ -14,14 +14,7 @@
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect With Me:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
-    <img alt="linkedIn" src="assets/images/linkedIn.png" width="75" height="40"/>
-  </a>
-  <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
-    <img alt="instagram" src="assets/images/insta.png" width="40" height="40"/>
-  </a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
