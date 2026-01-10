@@ -95,13 +95,14 @@
 </table>
 
 
-## 🔥 My Stats :
+## My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imchatrasal007&theme=gruvbox)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=imchatrasal007&theme=gruvbox&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&hide_border=true)
+
 
 
 
