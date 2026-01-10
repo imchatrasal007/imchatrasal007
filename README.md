@@ -101,9 +101,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&rank_icon=github)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imchatrasal007&style=flat-square&color=blue" alt="" width="200" height="35"/>
-</p>
+
 
 
 
