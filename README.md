@@ -95,9 +95,7 @@
 </table>
 
 
-## My GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imchatrasal007&theme=gruvbox&hide_border=true)
 
 
 
