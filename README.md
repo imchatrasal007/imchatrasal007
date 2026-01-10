@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Profile:</h3>
 <p align="left">
 <a href="https://leetcode.com/u/aryanjadhav707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chatrasal jadhav" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chatrasal9c59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chatrasal9c59" height="30" width="40" /></a>
