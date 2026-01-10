@@ -13,10 +13,14 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-<h3 align="left">Coding Profile:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/aryanjadhav707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chatrasal jadhav" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chatrasal9c59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chatrasal9c59" height="30" width="40" /></a>
+<h3 align="left">Connect With Me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
+    <img alt="linkedIn" src="assets/images/linkedIn.png" width="75" height="40"/>
+  </a>
+  <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
+    <img alt="instagram" src="assets/images/insta.png" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
