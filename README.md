@@ -14,7 +14,12 @@
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect With Me:</h3>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/chatrasal-jadhav-637ba1269" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
