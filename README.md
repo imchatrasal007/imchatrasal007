@@ -97,11 +97,19 @@
 
 ## 🔥Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=gruvbox)](https://git.io/streak-stats)
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imchatrasal007&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&rank_icon=github)
+## 📊 GitHub Stats
+![Chatrasal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&rank_icon=github)
+
+---
+
+## 💻 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
