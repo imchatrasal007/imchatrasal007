@@ -94,18 +94,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imchatrasal007&theme=gruvbox&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
-
+## 🔥Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=imchatrasal007DenverCoder1)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
