@@ -94,21 +94,19 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imchatrasal007&theme=gruvbox&hide_border=true" />
+</p>
 
-## 🔥Stats :
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&hide_border=true" />
+</p>
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imchatrasal007&theme=gruvbox)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
 
----
 
-## 📊 GitHub Stats
-![Chatrasal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imchatrasal007&show_icons=true&theme=gruvbox&rank_icon=github)
-
----
-
-## 💻 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imchatrasal007&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
