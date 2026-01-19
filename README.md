@@ -19,8 +19,8 @@
          alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/imchatrasal63" target="_blank">
-  <img alt="instagram" src="assets/images/insta.png" width="40" height="40"/>
-</a>
+   <img alt="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
