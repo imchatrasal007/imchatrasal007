@@ -21,9 +21,6 @@
   <!-- <a href="https://instagram.com/imchatrasal63" target="_blank">
    <img alt="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
   </a> -->
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imchatrasal63)
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
