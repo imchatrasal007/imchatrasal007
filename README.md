@@ -18,9 +18,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/imchatrasal63" target="_blank">
+  <!-- <a href="https://instagram.com/imchatrasal63" target="_blank">
    <img alt="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
