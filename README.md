@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imchatrasal007&label=Profile%20views&color=0e75b6&style=flat" alt="imchatrasal007" /> </p>
 
 
-- 💬 Ask me about **FrontEnd And Backend Technologies**
+- 💬 Ask me about **Frontend And Backend Technologies**
 
 - 📫 How to reach me **aryanjadhav707@gmail.com**
 
@@ -18,8 +18,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn" width="40" height="40"/>
   </a>
-  <!-- <a href="https://instagram.com/imchatrasal63" target="_blank">
-   <img alt="instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  <!-- <a href="https://www.linkedin.com/in/chatrasal-jadhav-637ba1269" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40"/>
   </a> -->
 </p>
 
